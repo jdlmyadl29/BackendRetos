@@ -1,0 +1,16 @@
+com\as\repository\crud\AccessoryCrudRepository.class
+com\as\repository\crud\UserCrudRepository.class
+com\as\service\OrderService.class
+com\as\controller\UserController.class
+com\as\service\AccesoryService.class
+com\as\service\UserService.class
+com\as\model\Order.class
+com\as\repository\UserRepository.class
+com\as\DemoApplication.class
+com\as\model\Accessory.class
+com\as\controller\OrderController.class
+com\as\model\User.class
+com\as\controller\AccessoryController.class
+com\as\repository\OrderRepository.class
+com\as\repository\AccessoryRepository.class
+com\as\repository\crud\OrderCrudRepository.class
